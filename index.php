@@ -1,3 +1,3 @@
 <?php
 
-echo('testing auto deploy');
+echo('testing auto deploy web hook');
